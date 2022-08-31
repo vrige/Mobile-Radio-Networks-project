@@ -5,4 +5,4 @@ Telecomunication_data.ipynb contains the whole project. The main techinques are:
 - K-Fold Cross-validation
 - Logistic Regression 
 
-The models were choosen looking at the area under the ROC curve (AUC)
+The models were evaluated looking at the area under the ROC curve (AUC)
